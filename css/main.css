@@ -83,7 +83,6 @@ main {
     padding: 10px;
     transition: all 0.2s ease-in-out;
     max-width: 50%;
-    border: #151515 2px solid;
     box-sizing: border-box;
 }
 
@@ -93,7 +92,8 @@ main {
 
 .page-index .produits figure {
     text-align: center;
-    margin: 0;
+    margin: 5px;
+    border: 2px solid #151515;
 }
 
 .produits figcaption {
